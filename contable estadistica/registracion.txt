@@ -1,0 +1,29 @@
+REGISTRACIÓN
+
+Sistema de Partida Doble: consiste en anotar dos partes, una acreedora y otra deudora. Siempre son equivalentes una con la otra. 
+
+Libro Diario: asientos. Se realiza en un libro que es obligatorio y tiene que cuumplir ciertas exigencias. Tiene que ser registrado en el Registro Publico de Comercio. No pueden haber ni tachaduras ni enmiendas, ni interlineaciones, no pueden dejarse espacios en blanco, etc. 
+
+Asientos: se a través de cuentas. Dos o más cuentas participantes (deudora y acreedora).
+
+
+Ejemplo: 01 Sep Los socios Sanchez, Mattioli y Goldman firman el contrato de constitucion de "Los Distintos SRL", compromentiendose a aportar 300.000, 300.000 y 200.000 respectivamente.
+
+Fecha----------Detalle-----------Folio Mayor-------DEBE------------HABER
+
+01 Sept-------Socio Sanchez CtaAp.-------1----------300.000----------------
+----------------Socio Mattioli Cta Ap.-------2----------300.000----------------
+-----------------Socio Goldman Cta Ap.----3----------200.000---------------
+-----------------Capital Social---------------4--------------------------800.000
+
+
+MAYORIZACIÓN
+
+
+Fecha----------Concepto--------N° A----------F* Mayor-----------DEBE----------HABER------------Saldos-------------
+
+
+
+VERIFICACIÓN
+
+Una vez cargado todo en ambos libros se debe llena el cuadro de verificación de todos los datos.

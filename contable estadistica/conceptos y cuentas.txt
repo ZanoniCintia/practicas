@@ -1,0 +1,36 @@
+Conceptos de Contabilidad.
+
+Contabilidad: ciencia/técnica que recolecta informacion, la ordena, la clasifica y genera informes a través de los cuales se establece el estado economico, patrimonial y financiero de una empresa.
+También realiza tareas de gerenciamiento, toma de decisiones, etc.
+
+Proceso contable:
+
+operacion economica: pago de un sueldo, compra de materias primas, constitucion de una deuda con un proveedor, entre otras. Se registran de manera conologica.
+libro diario: aqui se registran a través de cuentas que se efectuan en las empresas.
+libro mayor: contiene la informacion de las cuentas de manera mas detallada.
+inventario: lo que ocurre cuando finaliza un proceso economico. Relevamiento de todos los bienes de una empresa, informacion actualizada que se contrasta con la registrada anteriormente. Si coincide no se hacen cambios, pero sino se hacen ajustes en el libro diario, de ahí se pasan al libro mayor y así queda la información actualizada.
+informes: analiza todo para ver en que situacion se encuentra la empresa.
+
+Cuentas.
+Son instrumentos de la contabilidad para representar todos los elementos economicos que posee. Ej: bienes, derechos, gastos, ingresos, etc.
+Cada empresa realiza diferentes características industriales, para eso se utiliza el plan de cuentas.
+Las cuentas tienen un esquema simplificado para realizar anotaciones. Es como una T, a la izquierda se anota el 'debe' y a la derecha el 'haber'.
+Cuando se anote algo a la izquierda se dice que se debita o se carga y a la derecha se acredita o se descarga. 
+Débito: suma de todo lo debitado.
+Crédito: suma de todo lo acreditado.
+Saldo: diferencia entre débito y crédito. Puede ser deudor (debito > credito) acreedor (credito > debito) o nulo (credito = debito).
+
+Clasificación de cuentas.
+
+Por su naturaleza u origen:
+
+patrimoniales: representan elementos del patrimonio de la empresa (bienes poseidos u obligaciones contraidas). Activos (Caja, Mercaderias, Franquicias, Derechos por Venta), Pasivos (Proveedores, Sueldos a Pagar, IVA a Pagar, Prendas a Pagar, Previsiones para Indemnizaciones) o Patrimonio Neto (Capital Social, Reservas Legales, Resultados Acumulados).
+resultados: se basan en cuanto a los resultados. Positivos o ingresos (Ventas, Intereses Obtenidos, Diferencia Positiva de Cotización) y Negativos o egresos (Sueldos, Intereses Cedidos, Alquileres Cedidos).
+orden: representan elementos que la empresa tuvo, pero le interesa controlar (Documentos Descontados, Mercaderias Recibidas en Consignación).
+movimiento: representan operaciones transitorias (Productos en Elaboración, Mercaderías en Tránsito, Compras).
+regularizadoras: actualizan valores de activos y pasivos. De activos (Amortizaciones Acumudalas de Rodados, Previsiones para Deudores Incobrables) y De pasivos (Intereses Negativos a Devengar).
+
+Por su saldo:
+
+acreedoras: siempre van a registrar más saldo acreedor. Tienen las cuentas: Pasivo, Patrimonio Neto, Resultado Positivo y Regularizadoras de Activos.
+deudoras: siempre van a registrar más saldo deudor. Tienen las cuentas: Activo, Resultado Negativo y Regularizadoras de Pasivos.

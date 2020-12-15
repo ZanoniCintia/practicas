@@ -1,0 +1,22 @@
+Inventario.
+
+Operacion economica -> libro diario -> libro mayor -> estados contables
+
+inventario se mete aparte y se vuelve a empezar desde el libro diario en caso de necesitarse.
+
+Es el relevamiento, valorizacion y detalle de todos los bienes poseidos, derechos adquiridos y deudas contraidas al finalizar un ejercicio económico. Es obligatorio y se debe efectuar al menos una vez al año.
+
+Ofrece datos reales, los cuales permiten realizar ajustes de llegarse a necesitar. Se vuelve a actualizar el libro diario, el mayor y finalmente se crean los estados contables.
+
+Métodos de evaluación.
+
+LIFO (last in first out) -> va de lo más nuevo a lo más viejo
+
+FIFO (first in first out) -> va de lo más viejo a lo más nuevo
+
+PPP (precio promedio ponderado) -> encontrar o calcular un precio promedio cada vez que se compra entre lo actual y el lote que se compró
+se calcula sumando el total de lo que habia + lo que se compra y dividimos por las cantidades
+
+NIFO (next input first output) -> con epocas de inflación -> se asigna como costo al que ya se pactó en una entrega futura
+
+WIFO (without input first output) -> cuando hay grandes tasas de inflación -> pactos con entregas escalonadas en el tiempo para asegurar ganancias

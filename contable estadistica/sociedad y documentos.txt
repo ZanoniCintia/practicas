@@ -1,0 +1,70 @@
+Sociedad. 
+
+el hombre tiene sensacion de malestar cuando le falta algo, la cual se sacia cuando obtiene un bien o un servicio
+
+se obtienen a través de la actividad económica
+
+necesidades son infinitas. Aparece una atrás de la otra
+
+se multiplican a medida se desarrolla la sociedad
+
+empresa: unidad economica que reune factores de la produccion, el trabajo, el capital. Como los utiliza y obtiene bienes y servicios
+
+
+ley 19550 (la que determina los distintos tipos de sociedades)
+
+una sociedad debe ser inscripta en el registro de comercios. Deben tener un contrato de comienzo, los integrantes o socios firman y ahi comienza a tener vida. Tendra un estatuto propio (a que se dedica, su rubro, duracion maxima, administracion, etc).
+
+Tipos:
+
+colectiva: responsabilidad que se asume será ilimitada, subsidiaria y solidaria. Aportes y bienes se ponen en riesgo. Cualquiera de los socios afronta el problema. La administracion estará en manos de cualquiera de los socios. Se necesita unanimidad para cambiar su contrato. Fácil de manejar con responsabilidad ilimitada. (SC)
+
+en comandita simple: tiene dos tipos de socios los comanditados (responsabilidad ilimitada y subsidiaria) y los comanditarios (tienen prohibida la tarea administrativa). 
+(SCS) 
+
+capital e industria: se conforma con gente habilidosa, pero carece de los medios. capitalistas (son los que aportan el capital, responsabilidad ilimitada) e industriales (los que aportan el conocimiento y las habilidades, responsabilidad de las ganancias no recibidas). El sueldo de los industriales esta establecida en el contrato y la administracion estará bajo el cargo de uno o más capitalistas.
+(SCI)
+
+responsabilidad limitada: una de las más empleadas en Argentina. Responsabilidad de los socios (limitada al capital suscripto) y administración simple a través de los mismos socios (reciben el nombre de gerentes). El capital se divide en partes iguales (cuotas) y tienen que ser aportadas en un plazo inferior a 2 años y con un minimo del 25% en efectivo. La fiscalización es obligatorio si el capital supera un minimo fijado por la ley (se modifica con los indices de inflacion) y será a través de un sindico. Cada cuota da derecho a un voto.
+(SRL)
+
+anonima: una de las más utilizadas. El poder de anonimato (identidad resguardada de sus integrantes) y responsabilidad limitada al capital suscripto. Dividen el capital en partes iguales, pero se llaman acciones. Tienen un plazo de dos años de aporte de 2 años y con un minimo del 25% en efectivo. Adminitracion a través de directorios elegidos en asambleas: socios o terceros. No pueden ser funcionarios de administracion publica, cargo en relacion de la empresa a menos que hayan dejado de serlo luego de dos años. Sindicos representantes de los asociados y controlan a los directores.
+Se emiten acciones: nominativas(si se conoce la identidad del dueño, en caso de transferirse se registran en un libro el nombre del nuevo dueño) o al portador(si no se conoce la identidad, se pueden transferir sin anotaciones). Tambien se diferencian por preferidas (tienen prioridad con respecto de las ganancias), privilegiadas (prioridad con respecto al capital) y ordinaria (ni preferencias ni privilegios).
+(SA)
+Pueden estar integrada por un unico miembro. (unipersonales) -> SAU
+
+en comandita por acciones: comanditados y comanditarios como en la simple con las mismas responsabilidades. Administración a cargo de uno o más socios comanditados
+(SCA)
+
+Financiacion.
+
+prestamos: alta tasa de interés, si se devuelve en el tiempo acordado la empresa se desvincula del prestador. Desventaja: alto costo, si la empresa no paga en tiempo en forma y los intereses de pago.
+emision de capital: no se paga alto costo. Desventaja: negocio compartido al repartir entre mayor cantidad de partes.
+emision de bonos (SA y SCA): DEBENTURES. Devolver el dinero que se recibe en cierto tiempo con interés. Se pueden generar con garantia flotante (garantiza el pago con cualquier bien de la empresa), especial (se establece el bien a liquidar en caso de no pagar los debentures) o común (se transforman en acciones si los debentures no se pagan).
+Desventaja: si no se tiene como cancelar los bonos, se tendrán que liquidar bienes.
+
+Tipos de Acciones:
+Privilegiadas: prioridad para recuperar capital por ejemplo cuando una empresa entra en quiebra o termina una sociedad.
+Preferidas: prioridad para repartir ganancias. Se deciden a través de asambleas
+Ordinarias: ni preferencias ni privilegios. Están en un pie de igualdad con las privilegiadas al distribuir beneficios y con las preferidas al acceder al capital.
+Diferidas: reciben algún beneficio únicamente si son satisfechas las demás.
+
+-------------------------------------------------------------------------------
+
+
+Documentos comerciales.
+
+comprobante que pone en evidencia una operacion economica que desarrolla una empresa. La ley obliga a las empresas que retengan los documentos como minimo por 10 años
+
+Tipos:
+
+remito o nota de remision: se usa cuando se requiere aceptacion por parte del comprador que está de acuerdo con lo que el vendedor le entrega. Debe tener membrete de la empresa, indicar responsabilidad frente a la AFIP, número correlativo, fecha y datos del vendedor (CUIT, nro de ingreso bruto, año y mes que comenzo actividades). Datos del comprador, domicilio, responsabilidad, cuit y datos de un posible transporte. Detalle de lo que se entrega: calidad y cantidad. Al pie del documento, firma el comprador y figuran datos de la imprenta.
+factura: documento que entrega el vendedor al comprador y que describe los productos que se le entregan, los precios unitarios y totales y las condiciones de la venta. Datos del comprador. Tipo A: emite un responsable inscripto a otro (tipo particular de contribuyente que trabaja para la AFIP). Se agrega en forma separada el IVA. Tipo B: emite un responsable inscripto a uno que no sea responsable inscripto. No discrimina el IVA como diferencia principal. Tipo C: emite uno que no es responsable inscripto a otro. Tampoco se discrimina el IVA. Tipo M: emiten responsables inscriptos que no cumplen requisitos minimos de la AFIP. Mismo sentido que la factura tipo A. Tipo E: la emiten los exportadores y se usa para todos los compradores. Tipo T: emiten los turistas y se utiliza para hacer reintegros del IVA.
+nota de credito: similar a la factura y tiene como objetivo disminuir el saldo de la contraparte. Se utiliza cuando se quiere hacer un descuento o una devolucion. Respeta las letras de la factura.
+nota de debito: se utiliza para aumentar el saldo de la contraparte. Cobrar recargos por atrasos en el pago. Respetan las letras de la factura.
+recibo: comprobante que entrega aquel que recibe dinero o valores. El receptor manifiesta haberlos recibido. También respeta las letras de la factura. Cantidad recibida en letras, elementos que se reciben, entre otros.
+giro: transferencia de dinero que hace una persona a favor de otra. Se deposita en un banco, en el correo o en una empresa que se dedique a estas transacciones.
+pagare: promesa de pago de una persona hacia otra, en un estipulado lugar y fecha. En caso de llegar al límite de endoso, se debe abrochar uno nuevo. Se compran en librerias comerciales. Están casi en desuso. Indica fecha de realizacion, fecha a realizar el pago, cantidad de pesos en letras, elementos recibidos, en que se va a pagar, etc. Se debe pagar un sellado y si no se realiza se paga una multa.
+cheque: surge a partir de una cuenta que abre un cliente de un banco. Una orden de pago emitida por el titular de una CC realizada a un banco a favor de un tercero. Las chequeras son distribuidas por los mismos bancos. Se ingresa monto tanto con numeros y con letras, fecha de realizacion, direccion del banco, beneficiario, firma del titular de la CC. El beneficiario lo transforma en dinero presentandose en el banco y cobrando por ventanilla, depositarlo en una cuenta propia en su propio banco o transferirlo. Lineas paralelas oblicuas en el borde: anula la posibilidad de cobrarlo por ventanilla. Clausula no a su orden: impide la transferencia. Tiene 30 dias antes de su vencimiento. Cheque volador: cuando un cheque esta posdatado. De pago diferido: fecha de emision y fecha de pago (se puede extender hasta 1 año). También implementa el registro del titular para dar seguridad a quien lo cobre. Sobregiro: cuando el banco presta un monto hasta un cierto valor para hacer un cheque (de acuerdo a las garantías que presente el titular de la CC).
+
+Protesto: una operación o trámite que deja en claro que el firmante no quiere pagar en la fecha de vencimiento. Se concurre acompañado de un escribano que labra un acta y deja por sentado que no quiere pagar. Su función es la de acortar trámites judiciales.
